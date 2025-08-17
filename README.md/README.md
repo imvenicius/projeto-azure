@@ -7,7 +7,7 @@ Este é um projeto voltado para estudos e práticas relacionadas ao **Microsoft 
 - **Git & GitHub**
 - **Markdown**
 
-## **1º Contato**
+## **1º Contato com o projeto**
 
 Meu primeiro desafio não foi exatamente dentro do laboratório do Azure, mas sim na configuração inicial do repositório, criação do arquivo `README.md` e realização dos primeiros commits. 
 
